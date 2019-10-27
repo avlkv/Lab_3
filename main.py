@@ -2,7 +2,7 @@ from lab_python_oop import circle, rectangle, square
 
 
 def main():
-    print(circle.Circle(12, "Бежевый"))
+    print(circle.Circle(12, "Синий"))
     print(rectangle.Rectangle(12, 9, "Красный"))
     print(square.Square(11, "Зелёный"))
 
